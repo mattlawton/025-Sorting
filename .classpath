@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="IoTApp/src/main/java"/>
+	<classpathentry kind="src" path="IoTApp/src/test/java"/>
+	<classpathentry kind="lib" path="IoTApp/target/IoTApp-1.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="IoTApp/target/IoTApp-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="IoTApp/target/IoTApp.jar"/>
+	<classpathentry kind="lib" path="IoTApp/target/original-IoTApp-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="IoTApp/target/uberIoTApp.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="IoTApp/target/classes"/>
+</classpath>
